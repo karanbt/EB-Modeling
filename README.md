@@ -1,7 +1,7 @@
 # EB-Modeling
 
 ## Overview
-This repository attempts to recreate the eclipsing binary star system KIC 2306740 using the PHOEBE (PHysics Of Eclipsing BinariEs) software. The goal is to derive the system's parameters accurately from observational data, including light curves and radial velocity curves.
+This repository aims to recreate the eclipsing binary star system **KIC 2306740** using the PHOEBE (PHysics Of Eclipsing BinariEs) software. The goal is to derive the system's parameters accurately from observational data, including light curves and radial velocity curves.
 
 ---
 ## Getting Started 
