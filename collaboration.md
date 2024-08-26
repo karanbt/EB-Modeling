@@ -12,7 +12,7 @@ repository and click the 'Fork' button.
 
 Now that you have forked your repository, you can clone it to your computer using:
 
-    git clone -o <username> https://github.com/<username>/oc_with_rf
+    git clone -o <username> https://github.com/<username>/EB-Modeling
 
 Be sure to replace ``<username>`` with your GitHub username!
 
@@ -20,15 +20,15 @@ Be sure to replace ``<username>`` with your GitHub username!
 
 Once the repository has been cloned, ``cd`` into it and check what files are available:
 
-    cd oc_with_rf
+    cd EB-Modeling
     ls
 
 You should now see the following files:
 
 * ``README.md``: basic documentation for some of the code
 * ``data``: folder which contains queried datasets for cluster
-* ``MVSem_Bhavesh_Rajpoot.pdf``: slides of MVSem presentation
-* ``rf_in_action.ipynb``: jupyter notebook which contains the whole tutorial
+* ``EBs-KSP_5.0.pdf``: slides of Eclipsing Binaries presentation 
+* ``notebooks``: jupyter notebooks which contains the whole tutorial 
 
 Take a look at these files, and familiarize yourself with the contents.
 
@@ -88,7 +88,7 @@ ask your friendly stackoverflow or the creator of repo!
 
 ## 1g: Open a pull request
 
-At this point, go to your fork on GitHub at ``https://github.com/<username>/oc_with_rf``,
+At this point, go to your fork on GitHub at ``https://github.com/<username>/EB-Modeling``,
 
 Click on **Compare & pull request**.
 
