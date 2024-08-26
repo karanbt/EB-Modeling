@@ -1,14 +1,14 @@
 
 # Guidelines for contributing
 
-## 1a: Fork the repository
+## 1: Fork the repository
 
 Since you don't have write access to this repository, and also we want things simpler, the first step will be to make a "fork" of the repository.
 This is a copy of the main repository, but one that you have complete control to modify as you see fit
 (and that is visible to everyone else on GitHub).  Make sure you are logged in to GitHub, then go to the
 repository and click the 'Fork' button.
 
-## 1b: Clone your fork
+## 2: Clone your fork
 
 Now that you have forked your repository, you can clone it to your computer using:
 
@@ -16,7 +16,7 @@ Now that you have forked your repository, you can clone it to your computer usin
 
 Be sure to replace ``<username>`` with your GitHub username!
 
-## 1c: Familiarize yourself with the code
+## 3: Familiarize yourself with the code
 
 Once the repository has been cloned, ``cd`` into it and check what files are available:
 
@@ -28,11 +28,11 @@ You should now see the following files:
 * ``README.md``: basic documentation for some of the code
 * ``data``: folder which contains queried datasets for cluster
 * ``EBs-KSP_5.0.pdf``: slides of Eclipsing Binaries presentation 
-* ``notebooks``: jupyter notebooks which contains the whole tutorial 
+* ``notebooks``: jupyter notebooks containing analysis 
 
 Take a look at these files, and familiarize yourself with the contents.
 
-## 1d: Make a new branch
+## 4: Make a new branch
 
 By default, you will be looking at the ``main`` "branch" of the repository. You're going to make some
 changes to the code, but who knows... maybe the reviewers will spend so long reviewing your changes
@@ -48,11 +48,11 @@ You can then switch to this branch with:
 Note that you can also write ``git checkout -b <name-of-branch>`` as a short-hand for the above two
 commands. Branch names should be kept simple and reasonably short, and can't include e.g. spaces.
 
-## 1e: Make some changes
+## 5: Make some changes
 
 At this point, you can implement changes in the code or add your codes.
 
-## 1f: Commit the changes and push them to your fork
+## 6: Commit the changes and push them to your fork
 
 Now that you've made changes, the next step is to commit these changes to the repository. You can see
 what files have changed since the last commit with:
@@ -86,7 +86,7 @@ If the commit is there, you are now ready to push your changes to GitHub! You ca
 If this succeeds, you are ready for the next step. If you get an error about the changes being rejected,
 ask your friendly stackoverflow or the creator of repo!
 
-## 1g: Open a pull request
+## 7: Open a pull request
 
 At this point, go to your fork on GitHub at ``https://github.com/<username>/EB-Modeling``,
 
