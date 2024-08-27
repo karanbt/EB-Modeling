@@ -17,7 +17,7 @@ There are several pathways by which you can proceed with this repository.
    - Begin by checking the paper, [Physics of Eclipsing Binaries. V. General Framework for Solving the Inverse Problem](https://iopscience.iop.org/article/10.3847/15384365/abb4e2)
    - Then proceed with the [notebooks](notebooks)
   
-3. Knows PHOEBE and Eclipsing Binaries:
+3. Familiar with PHOEBE and Eclipsing Binaries:
    - Begin directly with the [notebooks](notebooks) 
 
 Once you decide on your pathway, follow these steps to set up the environment before running the notebook:
@@ -44,4 +44,4 @@ For contributing to this project and repository, please see [collaboration.md](c
 2. [The Nature of the Eccentric Double-lined Eclipsing Binary System KIC 2306740 with Kepler Space Photometry](https://iopscience.iop.org/article/10.3847/1538-4357/abe546) by D. Koçak et al 2021
    
 ### Packages
-1. NumPy, AstroPy, Matplotlib, SciPy, PHOEBE 
+1. NumPy, SciPy, AstroPy, Matplotlib, PHOEBE 
