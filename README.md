@@ -46,6 +46,6 @@ For contributing to this project and repository, please see [collaboration.md](c
 ### Packages
 1. NumPy, SciPy, AstroPy, Matplotlib, PHOEBE
 
-## Course Certificate
+## Certificate
 
 ![Certificate](KSP.png)
