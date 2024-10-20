@@ -44,4 +44,8 @@ For contributing to this project and repository, please see [collaboration.md](c
 2. [The Nature of the Eccentric Double-lined Eclipsing Binary System KIC 2306740 with Kepler Space Photometry](https://iopscience.iop.org/article/10.3847/1538-4357/abe546) by D. Koçak et al 2021
    
 ### Packages
-1. NumPy, SciPy, AstroPy, Matplotlib, PHOEBE 
+1. NumPy, SciPy, AstroPy, Matplotlib, PHOEBE
+
+## Course Certificate
+
+![Certificate](KSP.png)
