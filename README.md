@@ -10,7 +10,7 @@ There are several pathways by which you can proceed with this repository.
 
 1. Complete Novice to Eclipsing Binaries and PHOEBE:
    - Begin by checking the presentation, [KSP_5.0-EBs.pdf](KSP_5.0-EBs.pdf).
-   - For more details, refer to the report, []().
+   - For more details, refer to the report, [KSP 5.0 EB Project Report](https://krittikaiitb.github.io/KSPReports/2024/Eclipsing%20Binaries/KSP_5_0_EB_Project_Report.pdf).
    - Proceed with the [notebooks](notebooks)
   
 2. Know Eclipsing Binaries but not PHOEBE:
